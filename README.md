@@ -5,13 +5,13 @@ I am a passionate and results-driven Software Developer & DevOps Engineer with a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2024 - To: 28 July 2026
+From: 11 August 2024 - To: 29 July 2026
 
-Total Time: 2,054 hrs 50 mins
+Total Time: 2,057 hrs 21 mins
 
-TypeScript                 1,042 hrs 11 mins     ████████████▒░░░░░░░░░░░░   49.94 %
-YAML                       356 hrs 49 mins       ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-Vue.js                     156 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+TypeScript                 1,043 hrs 40 mins     ████████████▒░░░░░░░░░░░░   49.95 %
+YAML                       357 hrs 4 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
+Vue.js                     156 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
 Dart                       91 hrs 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 HTML                       73 hrs 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
 ```
