@@ -5,7 +5,7 @@ I am a passionate and results-driven Software Developer & DevOps Engineer with a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2024 - To: 13 August 2026
+From: 11 August 2024 - To: 14 August 2026
 
 Total Time: 2,068 hrs 24 mins
 
